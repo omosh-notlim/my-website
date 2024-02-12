@@ -478,7 +478,9 @@ hr {
 #project-item-2,
 #project-item-3,
 #project-item-4,
-#project-item-5 {
+#project-item-5,
+#project-item-6 {
+    background-image: url('images/projects/global.png');
     background-size: 120%;
     background-position: center;
     background-repeat: no-repeat;
@@ -489,7 +491,8 @@ hr {
 #project-item-2:hover,
 #project-item-3:hover,
 #project-item-4:hover,
-#project-item-5:hover {
+#project-item-5:hover,
+#project-item-6:hover {
     background-size: 110%;
 
     .project-item-content {
@@ -520,11 +523,15 @@ hr {
 }
 
 #project-item-4 {
-    background-image: url('images/projects/manyumba.png');
+    background-image: url('images/projects/dekutes.png');
 }
 
 #project-item-5 {
     background-image: url('images/projects/global.png');
+}
+
+#project-item-6 {
+    background-image: url('images/projects/hms.png');
 }
 
 .project-item-content {
