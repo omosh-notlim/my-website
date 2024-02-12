@@ -44,8 +44,23 @@
     <div class="content-area">
         <div class="wrapper">
             <p class="about-p">Projects</p>
-            <!-- <div class="about"> -->
             <div class="projects">
+                <div id="project-item-4" class="project-item">
+                    <div class="project-item-content">
+                        <div>
+                            <h5>DeKUTES Website</h5><hr>
+                            <p>
+                                <span>A simple website to assist the DeKUTES at Kimathi University Market their products.</span><br>
+                                React.js
+                            </p>
+                        </div>
+                        <a href="https://dekutes.dkut.ac.ke" target="_blank" rel="noopener noreferrer">
+                            <button class="view-btn">
+                                View
+                            </button>
+                        </a>
+                    </div>
+                </div>
                 <div id="project-item-1" class="project-item">
                     <div class="project-item-content">
                         <div>
@@ -55,9 +70,11 @@
                                 HTML, CSS, Javascript
                             </p>
                         </div>
-                        <button class="view-btn" onclick="window.location.href='https://gogologistics.co.ke';">
-                           View
-                       </button>
+                        <a href="https://gogologistics.co.ke" target="_blank" rel="noopener noreferrer">
+                            <button class="view-btn">
+                                View
+                            </button>
+                        </a>
                     </div>
                 </div>
                 <div id="project-item-2" class="project-item">
@@ -69,9 +86,11 @@
                                 HTML, CSS, Javascript
                             </p>
                         </div>
-                        <button class="view-btn" onclick="window.location.href='https://gogologistics.co.ke/peresodo';">
-                           View
-                       </button>
+                        <a href="https://gogologistics.co.ke/peresodo" target="_blank" rel="noopener noreferrer">
+                            <button class="view-btn">
+                                View
+                            </button>
+                        </a>
                     </div>
                 </div>
                 <div id="project-item-3" class="project-item">
@@ -83,25 +102,31 @@
                                 PHP(Vanilla)
                             </p>
                         </div> 
-                        <button class="view-btn" onclick="window.location.href='https://omiltonprofile.000webhostapp.com/file_system/login';">
-                           View
-                       </button>
+                        <a href="https://notlims-app.x10.mx/profile/file_system/login" target="_blank" rel="noopener noreferrer">
+                            <button class="view-btn">
+                                View
+                            </button>
+                        </a>
                     </div>
                 </div>
-                <div id="project-item-4" class="project-item">
+                <div id="project-item-6" class="project-item">
                     <div class="project-item-content">
                         <div>
-                            <h5>Manyumba Housing Website</h5><hr>
+                            <h5>Hospital Management System, DeKUT</h5><hr>
                             <p>
-                                <span>Rental Property System(Role based)</span><br>
-                                PHP(Vanilla), Mpesa Integration, CMS
+                                <span>A Hospital Management System for the DeKUT medical center to assist them in managing their 
+                                respective activities.</span><br>
+                                ASP.net Core
                             </p>
                         </div>
-                        <button class="view-btn" onclick="window.location.href='https://manyumbahousing.000webhostapp.com';">
-                           View
-                       </button>
+                        <a href="https://hospital.dkut.ac.ke/" target="_blank" rel="noopener noreferrer">
+                            <button class="view-btn">
+                                View
+                            </button>
+                        </a>
                     </div>
                 </div>
+                
                 <div id="project-item-5" class="project-item">
                     <div class="project-item-content">
                         <div>
@@ -111,9 +136,11 @@
                                 React.js, APIs, CMS
                             </p>
                         </div>
-                        <!-- <button class="view-btn" onclick="window.location.href='#';">
-                           View -->
-                       </button>
+                        <!-- <a href="https://dekutes.dkut.ac.ke" target="_blank" rel="noopener noreferrer">
+                            <button class="view-btn">
+                                View
+                            </button> -->
+                        </a>
                     </div>
                 </div>
             </div>

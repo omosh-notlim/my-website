@@ -1,25 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
-    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 
-	<link rel="stylesheet" type="text/css" href="home.css">
-	<link rel="stylesheet" type="text/css" href="fonts/css/all.css">
-	<link rel="stylesheet" href="fontboot/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="home.css">
+    <link rel="stylesheet" type="text/css" href="fonts/css/all.css">
+    <link rel="stylesheet" href="fontboot/bootstrap-icons.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
 
     <link rel="icon" href="images/mo.jpeg" type="image/jpeg" sizes="any">
 
-	<title>Home</title>
+    <title>Home</title>
 </head>
 <body>
-	<div class="btn">
+    <div class="btn">
         <i class="bi bi-list"></i>
         <i class="bi bi-x"></i>
     </div>
@@ -50,8 +48,7 @@
                 <ul class="dynamic-text">
                     <li><span>IT Consultant</span></li>
                     <li><span>Software Developer</span></li>
-                    <!-- <li><span>Junior data analyst</span></li> -->
-                    <li><span>Machine Learning Enthusiast</span></li>
+                    <li><span>Machine Learning Engineer</span></li>
                 </ul>
                 <button class="contact-redirect" onclick="window.location.href='contact';">
                    Contact me

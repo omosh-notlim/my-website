@@ -69,20 +69,20 @@
                        <div class="diva" id="divc">
                            <div class="w3-container">
                                 <div class="progress-div">
-                                   <label for="file">HTML, CSS, Javascript <b>(80%)</b></label><br>
-                                    <progress id="file" value="85" max="100"> 80% </progress>
+                                    <label for="file">PHP/Laravel <b>(70%)</b></label><br>
+                                    <progress id="file" value="70" max="100"> 70% </progress>
                                 </div>
                                 <div class="progress-div">
-                                    <label for="file">PHP/Laravel <b>(75%)</b></label><br>
+                                   <label for="file">C#/.NET <b>(75%)</b></label><br>
                                     <progress id="file" value="75" max="100"> 75% </progress>
                                 </div>
                                 <div class="progress-div">
                                     <label for="file">Node.js/Express <b>(80%)</b></label><br>
-                                    <progress id="file" value="85" max="100"> 80% </progress>
+                                    <progress id="file" value="80" max="100"> 80% </progress>
                                 </div>
                                 <div class="progress-div">
-                                    <label for="file">Python, DRF <b>(65%)</b></label><br>
-                                    <progress id="file" value="70" max="100"> 65% </progress>
+                                    <label for="file">Python, DRF <b>(60%)</b></label><br>
+                                    <progress id="file" value="60" max="100"> 60% </progress>
                                 </div>
                                 <div class="progress-div">
                                     <label for="file">React.js <b>(80%)</b></label><br>
@@ -93,8 +93,8 @@
                                     <progress id="file" value="70" max="100"> 70% </progress>
                                 </div>
                                 <div class="progress-div">
-                                    <label for="file">Java/Spring boot <b>(60%)</b></label><br>
-                                    <progress id="file" value="65" max="100"> 60% </progress>
+                                    <label for="file">Java/Spring boot <b>(55%)</b></label><br>
+                                    <progress id="file" value="55" max="100"> 55% </progress>
                                 </div>
                                 <div class="progress-div">
                                     <label for="file">Databases (NoSQL, MySQL, Postgres, MongoDB) </label><br>
