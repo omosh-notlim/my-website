@@ -84,7 +84,10 @@ body {
 }
 
 .sidebar .text .image img {
-    width: 100px;
+    width: 90px;
+    height: 80px;
+    border-radius: 50%;
+    /* border: solid 1px black; */
 }
 
 .sidebar .text p {
@@ -479,8 +482,9 @@ hr {
 #project-item-3,
 #project-item-4,
 #project-item-5,
-#project-item-6 {
-    background-image: url('images/projects/global.png');
+#project-item-6,
+#project-item-7 {
+    /* background-image: url('images/projects/global.png'); */
     background-size: 120%;
     background-position: center;
     background-repeat: no-repeat;
@@ -492,7 +496,8 @@ hr {
 #project-item-3:hover,
 #project-item-4:hover,
 #project-item-5:hover,
-#project-item-6:hover {
+#project-item-6:hover,
+#project-item-7:hover {
     background-size: 110%;
 
     .project-item-content {
@@ -519,7 +524,7 @@ hr {
 }
 
 #project-item-3 {
-    background-image: url('images/projects/files.png');
+    background-image: url('images/projects/mwai.png');
 }
 
 #project-item-4 {
@@ -527,11 +532,15 @@ hr {
 }
 
 #project-item-5 {
-    background-image: url('images/projects/global.png');
+    background-image: url('images/projects/catering.png');
 }
 
 #project-item-6 {
     background-image: url('images/projects/hms.png');
+}
+
+#project-item-7 {
+    background-image: url('images/projects/workman.png');
 }
 
 .project-item-content {

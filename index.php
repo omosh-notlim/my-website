@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="fontboot/bootstrap-icons.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
 
-    <link rel="icon" href="images/mo.jpeg" type="image/jpeg" sizes="any">
+    <link rel="icon" href="images/mo2.jpg" type="image/jpg" sizes="any">
 
     <title>Home</title>
 </head>
@@ -23,11 +23,11 @@
     </div>
     <nav class="sidebar">
         <div class="text">
-            <div class="image"><img src="images/mo.jpeg"></div>
+            <div class="image"><img src="images/mo.png"></div>
             <p>Omondi Milton</p>
         </div>
         <ul>
-            <li class="focus"><a href="#"><i class="bi bi-house-fill"></i> Home</a></li>
+            <li class="focus"><a href="/my-website"><i class="bi bi-house-fill"></i> Home</a></li>
             <li><a href="about"><i class="bi bi-file-person"></i> About</a></li>
             <li><a href="projects"><i class="bi bi-stack"></i> Projects</a></li>
             <li><a href="contact"><i class="bi bi-envelope-check"></i> Contact</a></li>

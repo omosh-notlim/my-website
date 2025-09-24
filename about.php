@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="fontboot/bootstrap-icons.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
 
-    <link rel="icon" href="images/mo.jpeg" type="image/jpeg" sizes="any">
+    <link rel="icon" href="images/mo2.jpg" type="image/jpg" sizes="any">
 
     <title>About | Milton</title>
 </head>
@@ -23,11 +23,11 @@
     </div>
     <nav class="sidebar">
         <div class="text">
-            <div class="image"><img src="images/mo.jpeg"></div>
+            <div class="image"><img src="images/mo.png"></div>
             <p>Omondi Milton</p>
         </div>
         <ul>
-            <li><a href=""><i class="bi bi-house-fill"></i> Home</a></li>
+            <li><a href="/my-website"><i class="bi bi-house-fill"></i> Home</a></li>
             <li class="focus"><a href="#"><i class="bi bi-file-person"></i> About</a></li>
             <li><a href="projects"><i class="bi bi-stack"></i> Projects</a></li>
             <li><a href="contact"><i class="bi bi-envelope-check"></i> Contact</a></li>
@@ -46,7 +46,7 @@
             <p class="about-p">About</p>
             <div class="about">
                 <div class="image" data-aos="fade-right">
-                    <img src="images/profile.jpeg">
+                    <img src="images/milton2.jpg">
                 </div>
                 <div class="about-content" data-aos="fade-left">
                    <div class="buttons">
@@ -56,8 +56,11 @@
                    </div>
                    <div class="blocks">
                        <div class="diva" id="diva" data-aos="fade-in">
-                           <p class="about-p-2">I am a software developer with relevant experience in web apps and RESTful APIs development and maintenance. Additionally, I am very passionate about machine learning & AI concepts and its intergaration into systems.<br><br>
-                           I look foward to assisting you automate your bussiness processes and as well engage in innovative projects that would boost efficieny to a whole other level.</p>
+                            <p class="about-p-2">
+                                I am a software developer with hands-on experience in developing and maintaining web applications and RESTful APIs. My current focus is on systems development, 
+                                debugging, and API integration. I am passionate about delivering efficient, reliable, and scalable solutions that automate business processes and support innovation. 
+                                I look forward to collaborating on projects that drive real impact and boost operational efficiency.
+                            </p>
                        </div>
                        <div class="diva" id="divb">
                            <div class="profile">
@@ -69,8 +72,8 @@
                        <div class="diva" id="divc">
                            <div class="w3-container">
                                 <div class="progress-div">
-                                    <label for="file">PHP/Laravel <b>(70%)</b></label><br>
-                                    <progress id="file" value="70" max="100"> 70% </progress>
+                                    <label for="file">PHP/Laravel <b>(85%)</b></label><br>
+                                    <progress id="file" value="85" max="100"> 85% </progress>
                                 </div>
                                 <div class="progress-div">
                                    <label for="file">C#/.NET <b>(75%)</b></label><br>
